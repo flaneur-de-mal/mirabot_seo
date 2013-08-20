@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Mirabot SEO feature.
+ */
+
+include_once 'mirabot_seo.features.inc';
