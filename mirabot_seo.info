@@ -1,6 +1,7 @@
 name = Mirabot SEO
-description = A Drupal 7 feature containing initial configuration.
+description = A Drupal 7 feature containing initial SEO configuration.
 core = 7.x
+version = 7.x-1.0
 package = Features
 dependencies[] = ctools
 dependencies[] = features
